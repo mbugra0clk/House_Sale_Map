@@ -15,9 +15,11 @@ This project aims to analyze house sales data, identify the variables affecting 
 1. **Correlation Analysis:**
    - The top 10 variables most correlated with "SalePrice" were identified.
    - A heatmap was used to visualize the correlation structure.
+![Figure_2](https://github.com/user-attachments/assets/4e1ac2eb-68f7-42dc-9372-c6ccf1cfbe05)
 
 2. **Average Sale Prices by ZIP Code:**
    - The top 20 ZIP codes with the highest prices were visualized using a bar chart.
+![indir (1)](https://github.com/user-attachments/assets/66c23697-ac1d-4680-a020-e8ed3f31fa0e)
 
 3. **Geographic Distribution of the Most Expensive Houses:**
    - The top 10 most expensive houses were marked on a map using Folium.
@@ -43,6 +45,5 @@ This project aims to analyze house sales data, identify the variables affecting 
 This project is useful for data scientists and real estate analysts interested in analyzing house prices and visualizing them on a map.
 
 ![Ekran görüntüsü 2025-03-07 150714](https://github.com/user-attachments/assets/3ef4bd3d-fb2a-4115-a205-16dadacabc68)
-![indir (1)](https://github.com/user-attachments/assets/66c23697-ac1d-4680-a020-e8ed3f31fa0e)
-![Figure_2](https://github.com/user-attachments/assets/4e1ac2eb-68f7-42dc-9372-c6ccf1cfbe05)
+
 
